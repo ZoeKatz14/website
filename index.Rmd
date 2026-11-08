@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Home"
 ---
 
 :::: {.row}
@@ -36,7 +36,9 @@ I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu).
 
 PhD student at Rutgers Linguistics
 
-[zk210@rutgers.edu](mailto:zk210@rutgers.edu)
+[zk210@rutgers.edu](mailto:zk210@rutgers.edu), she/her
+
+
 :::
 
 :::
