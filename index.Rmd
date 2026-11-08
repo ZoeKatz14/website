@@ -6,7 +6,7 @@ title: ""
 
 ::: {.col-md-8}
 ### Hi!
-I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
+I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). When I'm not doing linguistics you can probably find me reading or browsing Wikipedia. I am a proud user of the pin-pen merger.  
 
 
 ### Research interests
