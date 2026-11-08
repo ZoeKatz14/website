@@ -5,18 +5,28 @@ title: ""
 :::: {.row}
 
 ::: {.col-md-8}
-### Hi!
-I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). When I'm not doing linguistics you can probably find me reading or browsing Wikipedia. I am a proud user of the pin-pen merger.  
+# Welcome!
+I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
 
 
-### Research interests
+## Research interests
 - Phonetics-phonology interface
 - Fieldwork & descriptive linguistics
 - Laboratory phonology
 
-### Language families
+## Language families
 - Turkish, specifically the Erzurum dialect
 - Banjara (also known as Lambani and Gor Boli)
+
+## Education 
+- (in progress) PhD, Linguistics, Rutgers University 
+- BS, Computer Science, Rice University (2024)
+- BA, Linguistics, Rice University (2024) 
+
+### Non-degree education
+- University of Arizona's [Critical Language Institute](https://melikian.asu.edu/cli/turkish), Second-year Turkish
+- TÖMER at Erzurum Technical University (A1-B2 Turkish)
+
 :::
 
 ::: {.col-md-4}
