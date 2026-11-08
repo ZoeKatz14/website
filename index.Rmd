@@ -1,11 +1,10 @@
 ---
-title: "Home"
+title: "Welcome!"
 ---
 
 :::: {.row}
 
 ::: {.col-md-8}
-# Welcome!
 I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
 
 
