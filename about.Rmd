@@ -1,13 +1,40 @@
 ---
 title: "About me"
 ---
+:::: {.row}
 
-I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (ISO 639-3: lmn) vowel system.
+::: {.col-md-8}
+I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
+
 
 ### Research interests
 - Phonetics-phonology interface
 - Fieldwork & descriptive linguistics
+- Laboratory phonology
 
 ### Language families
 - Turkish, specifically the Erzurum dialect
 - Banjara (also known as Lambani and Gor Boli)
+
+### Education 
+- (in progress) PhD, Linguistics, Rutgers University 
+- BS, Computer Science, Rice University (2024)
+- BA, Linguistics, Rice University (2024) 
+
+#### Non-degree education
+- University of Arizona's [Critical Language Institute](https://melikian.asu.edu/cli/turkish), Second-year Turkish
+- TÖMER at Erzurum Technical University (A1-B2 Turkish)
+:::
+
+::: {.col-md-4}
+
+::: {.polaroid}
+![](images/ZoeKatz2026.png){width=300px}
+
+PhD student at Rutgers Linguistics
+
+[zk210@rutgers.edu](mailto:zk210@rutgers.edu)
+:::
+
+::::
+:::

@@ -1,9 +1,34 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website!
+:::: {.row}
 
-For more information about simple R Markdown websites, please read the documentation at https://pkg.yihui.org/rmarkdown-book/rmarkdown-site.html.
+::: {.col-md-8}
+### Hi!
+I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+
+### Research interests
+- Phonetics-phonology interface
+- Fieldwork & descriptive linguistics
+- Laboratory phonology
+
+### Language families
+- Turkish, specifically the Erzurum dialect
+- Banjara (also known as Lambani and Gor Boli)
+:::
+
+::: {.col-md-4}
+
+::: {.polaroid}
+![](images/ZoeKatz2026.png){width=300px}
+
+PhD student at Rutgers Linguistics
+
+[zk210@rutgers.edu](mailto:zk210@rutgers.edu)
+:::
+
+:::
+
+::::

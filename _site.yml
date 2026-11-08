@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Zoe Katz"
   left:
     - text: "About"
       href: about.html
@@ -15,6 +15,7 @@ output:
   html_document:
     theme: journal
     highlight: textmate
+    css: styles.css
 
 include:
   - "CV.pdf"
