@@ -1,0 +1,20 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "My Website"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: CV.pdf
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+
+include:
+  - "CV.pdf"

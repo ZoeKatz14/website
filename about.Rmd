@@ -1,0 +1,13 @@
+---
+title: "About me"
+---
+
+I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (ISO 639-3: lmn) vowel system.
+
+### Research interests
+- Phonetics-phonology interface
+- Fieldwork & descriptive linguistics
+
+### Language families
+- Turkish, specifically the Erzurum dialect
+- Banjara (also known as Lambani and Gor Boli)

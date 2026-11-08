@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+#### Fulbright English Teaching Fellowship
+English Teacher, Erzurum Technical University, 2024
+
+#### Introduction to the Study of Language
+Teaching Assistant, Rice University, Department of Linguistics, 2024
+
+#### Introduction to Program Design
+Teaching Assistant, Rice University, Department of Computer Science, 2023
+
+#### Algorithmic Thinking
+Teaching Assistant, Rice University, Department of Computer Science, 2023
+
+#### Introduction to Program Design
+Teaching Assistant, Rice University, Department of Computer Science, 2022
+
+#### Phonetics
+Teaching Assistant, Rice University, Department of Linguistics, 2022

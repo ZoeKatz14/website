@@ -1,0 +1,13 @@
+---
+title: "Research"
+output: html_document
+---
+
+## Talks and presentations
+*Decomposing bounded iterativity in Kazakh rounding harmony*.
+Talk, Annual Meeting on Phonology (AMP), College Park, MD, USA.October 09, 2026.
+Colin Hirschberg, Timur Akishev, Merlin Balkhash, **Zoe Katz**, Utku Zobarlar, Adam McCollum. Presented by Colin & Utku.
+
+*Not all round vowels are created equal: Trigger asymmetries in Kazakh rounding harmony*.
+Talk, 11th Workshop on Turkic and Languages in Contact with Turkic (Tu+ 11), Boston, MA, USA. April 12, 2026.
+Colin Hirschberg, Timur Akishev, Merlin Balkhash, **Zoe Katz**, Utku Zobarlar, Adam McCollum. Presented by Colin & Utku.
