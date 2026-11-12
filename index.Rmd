@@ -7,6 +7,9 @@ title: "Welcome!"
 ::: {.col-md-8}
 I’m a 2nd year PhD student at [Rutgers Linguistics](https://ling.rutgers.edu). I’m currently working on my first QP covering the Banjara (**ISO 639-3: lmn**) vowel system. 
 
+## Recent updates
+- I am on the organizing committee for Tu+12. Check out the website [here](https://turkicworkshop.github.io/tu12/).
+
 
 ## Research interests
 - Phonetics-phonology interface
